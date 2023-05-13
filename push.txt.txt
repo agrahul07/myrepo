@@ -1,2 +1,2 @@
 dummy changes
-new change
+new change my new branch
